@@ -1,0 +1,10 @@
+{
+  "name": "SimpleIonicApp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {
+      "enabled": false
+    }
+  },
+  "type": "angular"
+}
